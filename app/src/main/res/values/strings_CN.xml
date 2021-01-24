@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">OPFPControl</string>
+
+    <string name="tint">图标颜色正常</string>
+    <string name="tint_disabled">关闭图标颜色</string>
+    <string name="icon">图标图像正常</string>
+    <string name="icon_disabled">图标图像已禁用</string>
+    <string name="play_anim">显示动画</string>
+    <string name="icon_opacity_normal">图标不透明度正常</string>
+    <string name="icon_opacity_disabled">图标不透明度已禁用</string>
+
+    <string name="apply">应用</string>
+    <string name="reboot">重新启动</string>
+    <string name="later">稍后</string>
+    <string name="root">ROOT</string>
+    <string name="rebooting">重启中...</string>
+    <string name="magisk_module_installed">已安装Magisk模块!</string>
+
+    <string name="reboot_first_desc">需要重新启动才能激活叠加层，您现在要重启吗？</string>
+    <string name="reboot_others_desc">强烈建议您应用新设置后重新启动，您现在要重启吗？</string>
+    <string name="reboot_uninstall_desc">需要重启启动您的设备才能完成删除，您现在要重启吗？</string>
+    <string name="reboot_first_again_desc">还需要再次重新启动一次才能激活叠加图，点击通知以重新启动</string>
+    <string name="waiting_for_root">正在等待ROOT...</string>
+    <string name="root_not_detected">未检测到ROOT权限，请检查</string>
+    <string name="magisk_module_installed_desc">请重新启动以完成安装</string>
+</resources>
